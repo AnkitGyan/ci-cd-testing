@@ -8,3 +8,9 @@
 [2026-06-24T06:58:18.886Z] INFO: GET /apiRoutes/users
 [2026-06-24T06:59:04.552Z] INFO: GET /api/users
 [2026-06-24T06:59:04.556Z] INFO: Fetching all users
+[2026-06-24T11:46:35.880Z] INFO: Backend server has started
+[2026-06-24T11:46:35.884Z] INFO: Server running on port 3000 (development)
+[2026-06-24T11:46:35.885Z] INFO: Available endpoints: GET /health, GET /api/users, POST /api/data, GET /api/echo/:message
+[2026-06-24T11:46:44.659Z] INFO: GET /
+[2026-06-24T11:46:48.181Z] INFO: GET /api/users
+[2026-06-24T11:46:48.192Z] INFO: Fetching all users
