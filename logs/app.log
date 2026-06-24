@@ -1,0 +1,10 @@
+[2026-06-24T06:43:34.684Z] INFO: Backend server has started
+[2026-06-24T06:43:34.687Z] INFO: Server running on port 3000 (development)
+[2026-06-24T06:43:34.688Z] INFO: Available endpoints: GET /health, GET /api/users, POST /api/data, GET /api/echo/:message
+[2026-06-24T06:43:45.798Z] INFO: GET /
+[2026-06-24T06:43:46.833Z] INFO: GET /
+[2026-06-24T06:43:47.073Z] INFO: GET /favicon.ico
+[2026-06-24T06:44:35.559Z] INFO: GET /users
+[2026-06-24T06:58:18.886Z] INFO: GET /apiRoutes/users
+[2026-06-24T06:59:04.552Z] INFO: GET /api/users
+[2026-06-24T06:59:04.556Z] INFO: Fetching all users
