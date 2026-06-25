@@ -1,13 +1,15 @@
 const express = require('express');
 const router = express.Router();
 const logger = require('../utils/logger');
+const { emit } = require('../server');
 
 // In-memory data store for testing
 const store = {
   users: [
     { id: 1, name: 'Alice Johnson', email: 'alice@example.com', role: 'admin' },
     { id: 2, name: 'Bob Smith', email: 'bob@example.com', role: 'user' },
-    { id: 3, name: 'Carol Williams', email: 'carol@example.com', role: 'user' }
+    { id: 3, name: 'Carol Williams', email: 'carol@example.com', role: 'user' },
+    {id : 4, name: 'Ankit Sharma', email: "ankit@gmail.com", role: "user"}
   ],
   data: []
 };
